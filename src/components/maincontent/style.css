@@ -1,0 +1,10 @@
+.mainAbout {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  min-height: -webkit-fit-content;
+  min-height: -moz-fit-content;
+  min-height: fit-content;
+  background-color: #d4e9f7;
+}
+/*# sourceMappingURL=style.css.map */
